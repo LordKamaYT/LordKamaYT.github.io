@@ -1,6 +1,3 @@
----
-description: Vous avez été sélectionné? Regardez ici quoi faire.
----
 
 # Quizz - Round 1
 
