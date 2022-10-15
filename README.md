@@ -7,4 +7,3 @@ Official site for quizz and other projects.
 
 * [README](README.md)
 * [Quizz - Inscriptions.](quizz-inscriptions.md)
-* [Quizz - Round 1](quizz-round-1.md)
