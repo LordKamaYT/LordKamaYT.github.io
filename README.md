@@ -6,4 +6,4 @@ Official site for quizz and other projects.
 # Table of contents
 
 * [README](README.md)
-* [Quizz - Inscriptions.](quizz-inscriptions.md)
+* [Arzerox](arzerox.md)
