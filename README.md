@@ -1,6 +1,6 @@
 # LordKamaYT.github.io
 
-Official site for quizz and other projects.
+Official site containing all ok Kama's Repos.
 
 
 # Table of contents
