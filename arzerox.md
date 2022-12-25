@@ -1,3 +1,5 @@
+##OUTDATED AND NOT WORKING ANYMORE
+
 # Arzerox
 Arzerox  is a bot developped by Kama#4725 in association with Cheater140#0037 .
 You can remaster the code if you want to but you will not be able to just use it in your server if you don't know some proper things. [Check this part to know how](#remaster-the-code), else head [here](#how-to-add-to-your-server) for setup.
