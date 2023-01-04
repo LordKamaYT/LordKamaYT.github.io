@@ -1,9 +1,9 @@
 # LordKamaYT.github.io
 
-Official site containing all ok Kama's Repos.
+Official site containing all of Kama's Repos.
 
 
 # Table of contents
 
-* [README](README.md)
-* [Arzerox](arzerox.md)
+* Soon
+* [Arzerox Outdated](https://lordkamayt.github.io/arzerox_outdated)
